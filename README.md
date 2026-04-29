@@ -6,5 +6,5 @@
 git
 
 ```
-git clone .repo/local_manifests
+git clone https://github.com/doxyey/device_manifest.git .repo/local_manifests
 ```
